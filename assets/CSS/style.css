@@ -1,0 +1,25 @@
+.jumbotron{
+    background-image: url("../img/images.png");
+    background-size:  contain;
+    color:#f4f4f4;
+}
+.nav-item:hover{
+    background-color: #bbbbbb;
+}
+
+.card{
+    margin: 10px 10px;
+    background-color:#b0e5df;
+    border: 5px;
+    padding:5;
+    font-size:medium;
+    text-align:center;
+    margin: 0 auto;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(41, 139, 132);
+    margin: 2px;
+    font-size:xx-large;
+}
